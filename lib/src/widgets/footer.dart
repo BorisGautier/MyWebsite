@@ -13,7 +13,7 @@ class Footer extends StatelessWidget {
       color: Colors.grey[900],
       child: Center(
         child: Text(
-          "© All Right Reservered by Muhammad Hamza",
+          "© Tous droits reservés par Boris Gautier TCHOUKOUAHA",
           style: GoogleFonts.montserrat(fontWeight: FontWeight.w100),
         ),
       ),

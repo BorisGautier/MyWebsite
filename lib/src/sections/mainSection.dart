@@ -28,11 +28,11 @@ class _MainPageState extends State<MainPage> {
   ItemPositionsListener _itemPositionListener = ItemPositionsListener.create();
 
   final List<String> _sectionsName = [
-    "Home",
-    "About",
-    "Services",
-    "Projects",
-    "Contact"
+    "Accueil",
+    "A Propos",
+    "Mes Services",
+    "Mes Projects",
+    "Me Contacter"
   ];
 
   final List<IconData> _sectionsIcons = [
@@ -175,11 +175,11 @@ class _MainPageState extends State<MainPage> {
                   side: BorderSide(color: kPrimaryColor)),
               onPressed: () {
                 html.window.open(
-                    'https://drive.google.com/uc?export=view&id=1OOdcdGEN3thVvpZ4cl_MM0LT-GCMuLIE',
+                    'https://drive.google.com/file/d/1HR3zyN0GORDQVkjezxlZ3_l0P6Z6w95k/view?usp=sharing',
                     "pdf");
               },
               child: Text(
-                "Resume",
+                "Mon CV",
                 style: GoogleFonts.montserrat(
                   fontWeight: FontWeight.w200,
                 ),
@@ -214,7 +214,7 @@ class _MainPageState extends State<MainPage> {
                     side: BorderSide(color: kPrimaryColor)),
                 onPressed: () {
                   launchURL(
-                      "https://drive.google.com/uc?export=view&id=1OOdcdGEN3thVvpZ4cl_MM0LT-GCMuLIE");
+                      "https://drive.google.com/file/d/1HR3zyN0GORDQVkjezxlZ3_l0P6Z6w95k/view?usp=sharing");
                 },
                 child: ListTile(
                   leading: Icon(
@@ -222,7 +222,7 @@ class _MainPageState extends State<MainPage> {
                     color: Colors.red,
                   ),
                   title: Text(
-                    "Resume",
+                    "Mon CV",
                     style: GoogleFonts.montserrat(
                       fontWeight: FontWeight.w200,
                     ),

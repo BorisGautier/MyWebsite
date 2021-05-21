@@ -25,41 +25,11 @@ class AboutMeText extends StatelessWidget {
       text: TextSpan(children: [
         TextSpan(
           text:
-              "Hi There! I'm Hamza, a Flutter developer, technial writer and open source contributor based in Pakistan.\n\nI have been developing mobile apps for over 1.5 years now, I develop apps with appealing UI and robust performance. I have worked in teams for various startups and helped them in launching their prototypes, as open source contributor at GitHub and got valuable learning experience.\n\nRight now I'm in final year of my undergraduate degree at ",
+              "Bonjour à tous ! Je suis Boris Gautier, Ingénieur en developpement logiciel et contributeur open source basé au Cameroun. J'ai commencé le developpement d'applications web et mobiles il y'a 5 ans. Aujourd'hui je développe des applications web et mobiles avec une interface utilisateur attrayante et des performances solides. Je travaille sur le projet GeOsm chez SOGEFI Cameroun et j'ai travaillé avec diverses equipes et startup sur differents projets ce qui m'a permis, aujourd'hui d'avoir une expérience précieuse. Je contribue sur github et je redige des blogs dans mes temps libres entre deux projets. ",
           style: MediaQuery.of(context).size.width < 600
               ? _textStyle(fontSize!, false)
               : _textStyle(fontSize! + 2, false),
         ),
-        TextSpan(
-          text: "COMSATS University Islamabad",
-          style: MediaQuery.of(context).size.width < 600
-              ? _textStyle(fontSize!, true)
-              : _textStyle(fontSize! + 2, true),
-        ),
-        TextSpan(
-          text: ", active ",
-          style: MediaQuery.of(context).size.width < 600
-              ? _textStyle(fontSize!, false)
-              : _textStyle(fontSize! + 2, false),
-        ),
-        TextSpan(
-          text: "Google Developer Student Clubs (DSC) Lead,",
-          style: MediaQuery.of(context).size.width < 600
-              ? _textStyle(fontSize!, true)
-              : _textStyle(fontSize! + 2, true),
-        ),
-        TextSpan(
-          text: " and",
-          style: MediaQuery.of(context).size.width < 600
-              ? _textStyle(fontSize!, false)
-              : _textStyle(fontSize! + 2, false),
-        ),
-        TextSpan(
-          text: " Leading Flutter Islamabad, Pakistan",
-          style: MediaQuery.of(context).size.width < 600
-              ? _textStyle(fontSize!, true)
-              : _textStyle(fontSize! + 2, true),
-        )
       ]),
     );
   }
