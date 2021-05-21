@@ -13,7 +13,7 @@ class ServiceMobile extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            "\nWhat I Do",
+            "\nCe que je fais",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.06,
               fontWeight: FontWeight.w100,
@@ -21,7 +21,7 @@ class ServiceMobile extends StatelessWidget {
             ),
           ),
           Text(
-            "I may not be perfect, but I'm surely of some help :)\n\n",
+            "Je ne suis peut-être pas parfait, mais je peux sûrement vous aider :)\n\n",
             textAlign: TextAlign.center,
             style: GoogleFonts.montserrat(fontWeight: FontWeight.w200),
           ),

@@ -16,7 +16,7 @@ class PortfolioDesktop extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            "\nPortfolio",
+            "\n Mon Portfolio",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.06,
               fontWeight: FontWeight.w100,
@@ -24,7 +24,7 @@ class PortfolioDesktop extends StatelessWidget {
             ),
           ),
           Text(
-            "Here are few samples of my previous work :)\n\n",
+            "Voici quelques exemples de mes travaux realisés :)\n\n",
             style: GoogleFonts.montserrat(fontWeight: FontWeight.w200),
           ),
           SizedBox(
@@ -72,7 +72,7 @@ class PortfolioDesktop extends StatelessWidget {
               launchURL("https://github.com/BorisGautier");
             },
             child: Text(
-              "See More",
+              "Voir Plus",
               style: GoogleFonts.montserrat(
                 fontWeight: FontWeight.w200,
               ),

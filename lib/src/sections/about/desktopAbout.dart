@@ -23,7 +23,7 @@ class AboutDesktop extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.start,
         children: [
           Text(
-            "\nAbout Me",
+            "\nA Propos de Moi",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.075,
               fontWeight: FontWeight.w100,

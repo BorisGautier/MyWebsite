@@ -42,7 +42,7 @@ class HomeDesktop extends StatelessWidget {
                   mainAxisSize: MainAxisSize.min,
                   children: [
                     Text(
-                      "WELCOME TO MY PORTFOLIO! ",
+                      "BIENVENUE SUR MON SITEWEB! ",
                       style: GoogleFonts.montserrat(
                           fontSize: height * 0.03, fontWeight: FontWeight.w300),
                     ),
@@ -61,14 +61,14 @@ class HomeDesktop extends StatelessWidget {
                   height: height * 0.04,
                 ),
                 Text(
-                  "Muhammad",
+                  "Boris Gautier",
                   style: GoogleFonts.montserrat(
                       fontSize: width < 1200 ? height * 0.085 : height * 0.095,
                       fontWeight: FontWeight.w100,
                       letterSpacing: 4.0),
                 ),
                 Text(
-                  "Hamza",
+                  "TCHOUKOUAHA",
                   style: GoogleFonts.montserrat(
                       fontSize: width < 1200 ? height * 0.085 : height * 0.095,
                       fontWeight: FontWeight.w500,
@@ -92,8 +92,9 @@ class HomeDesktop extends StatelessWidget {
                               fontWeight: FontWeight.w200),
                           text: [
                             " Flutter Developer",
-                            " Technical Writer",
-                            " UI/UX Enthusiast"
+                            " Lead Developer",
+                            " Web Developer",
+                            " Project Manager"
                           ]),
                     ],
                   ),

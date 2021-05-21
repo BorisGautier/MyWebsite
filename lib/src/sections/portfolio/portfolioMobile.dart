@@ -13,7 +13,7 @@ class PortfolioMobileTab extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            "\nPortfolio",
+            "\nMon Portfolio",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.06,
               fontWeight: FontWeight.w100,
@@ -21,7 +21,7 @@ class PortfolioMobileTab extends StatelessWidget {
             ),
           ),
           Text(
-            "Here are few samples of my previous work :)\n\n",
+            "Voici quelques exemples de mes travaux réalisés :)\n\n",
             style: GoogleFonts.montserrat(fontWeight: FontWeight.w200),
             textAlign: TextAlign.center,
           ),

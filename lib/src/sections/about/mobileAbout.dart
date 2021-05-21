@@ -21,7 +21,7 @@ class AboutMobile extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            "About Me",
+            "A Propos de Moi",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.06,
               fontWeight: FontWeight.w100,

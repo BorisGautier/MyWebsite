@@ -16,7 +16,7 @@ class ContactDesktop extends StatelessWidget {
       child: Column(
         children: [
           Text(
-            "\nContact",
+            "\nMe Contacter",
             style: GoogleFonts.montserrat(
               fontSize: height * 0.06,
               fontWeight: FontWeight.w100,
@@ -24,7 +24,7 @@ class ContactDesktop extends StatelessWidget {
             ),
           ),
           Text(
-            "Let's get in touch and build something together :)\n\n",
+            "Prenons contact et construisons quelque chose ensemble :)\n\n",
             style: GoogleFonts.montserrat(fontWeight: FontWeight.w200),
           ),
           Row(

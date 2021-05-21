@@ -63,7 +63,7 @@ final kServicesTitles = [
 
 final kServicesDescriptions = [
   "Je construis des applications professionnelles web avec Laravel et Angular et des applications mobiles avec Flutter",
-  "Bien que je sois principalement un développeur mobile Flutter, je me soucie de l'UI/UX de mes clients que ca soit en web ou mobile. C'est pourquoi je fais aussi du design d'interface utilisateur pour des applications et si nécessaire je contacte des experts du domaines pour des collaborations. Alors, n'hésitez pas à echanger avec moi sur l'UI/UX de vos applications.",
+  "Bien que je sois principalement un développeur mobile Flutter, je me soucie de l'UI/UX de mes clients que ca soit en web ou mobile.je fais du design d'interface utilisateur pour des applications avec des experts du domaines pour des collaborations. Alors, n'hésitez pas à echanger avec moi sur l'UI/UX de vos applications.",
   "Vous avez une idée de startup ? Ou peut-être voulez-vous simplement un prototype pour vos clients ? Avec Flutter, je peux vous fournir une version de base de votre application en un rien de temps et vous êtes prêt pour vos projets futurs.",
   "J'ecrirais des articles techniques sur dev.to afin de partager mes idées mes astuces et meme pour presenter certains de mes projets @borisgauty",
   "Je travaille en tant que contributeur open source sur GitHub sur de nombreux projets et de nombreux forks sur divers projets aimés et partagés par d'autres développeurs. Consultez mon profil GitHub @BorisGautier",
