@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Gautier',
+      title: 'Boris Gautier Personal WebSite',
       theme: ThemeData(
         brightness: Brightness.dark,
         primaryColor: kPrimaryColor,
