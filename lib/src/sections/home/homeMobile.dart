@@ -81,6 +81,7 @@ class _HomeMobileState extends State<HomeMobile> {
                           " Flutter Developer",
                           " Lead Developer",
                           " Web Developer",
+                          " SIG Developer",
                           " Project Manager"
                         ]),
                   ],

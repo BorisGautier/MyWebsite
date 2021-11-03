@@ -40,9 +40,25 @@ final kCommunityLinks = [
 ];
 
 // Tools & Tech
-final kTools = ["Flutter", "Laravel", "Angular", "Firebase", "Android"];
+final kTools = [
+  "Flutter",
+  "Laravel",
+  "Angular",
+  "Firebase",
+  "Android",
+  "Appwrite"
+];
 
-final kTools1 = ["Dart", "HTML", "CSS", "PHP", "Java", "Javascript", "Kotlin"];
+final kTools1 = [
+  "Dart",
+  "HTML",
+  "CSS",
+  "PHP",
+  "Java",
+  "Javascript",
+  "Kotlin",
+  "Python"
+];
 
 // services
 final kServicesIcons = [
@@ -110,7 +126,7 @@ final kProjectsDescriptions = [
 ];
 
 final kProjectsLinks = [
-  "https://github.com/GeOsmFamily/GeOsm-App",
+  "https://github.com/GeOsmFamily",
   "https://appdistribution.firebase.dev/i/bd22871bb06fa1cf",
   "https://play.google.com/store/apps/details?id=com.trimora.myevent",
   "https://play.google.com/store/apps/details?id=cm.tbg.jobs",
