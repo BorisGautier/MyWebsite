@@ -59,7 +59,7 @@ class PortfolioMobileTab extends StatelessWidget {
               launchURL("https://github.com/BorisGautier");
             },
             child: Text(
-              "See More",
+              "Voir Plus",
               style: GoogleFonts.montserrat(
                 fontWeight: FontWeight.w200,
               ),

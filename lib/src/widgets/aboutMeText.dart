@@ -25,7 +25,7 @@ class AboutMeText extends StatelessWidget {
       text: TextSpan(children: [
         TextSpan(
           text:
-              "Bonjour à tous ! Je suis Boris Gautier, Ingénieur en developpement logiciel et contributeur open source basé au Cameroun. J'ai commencé le developpement d'applications web et mobiles il y'a 5 ans. Aujourd'hui je développe des applications web et mobiles avec une interface utilisateur attrayante et des performances solides. Je travaille sur le projet GeOsm chez SOGEFI Cameroun et j'ai travaillé avec diverses equipes et startup sur differents projets ce qui m'a permis, aujourd'hui d'avoir une expérience précieuse. Je contribue sur github et je redige des blogs dans mes temps libres entre deux projets. ",
+              "Bonjour à tous ! Je suis Boris Gautier TCHOUKOUAHA, Ingénieur en developpement logiciel & electronique(Système Embarqué), passionné de dev et contributeur open source basé au Cameroun. J'ai commencé le developpement d'applications et logiciels il y'a 6 ans. Aujourd'hui je développe des applications professionnelles avec des interfaces utilisateurs attrayantes et des performances solides. Je travaille sur le projet GeOsm 2 (Voir Section Projets) chez SOGEFI Cameroun et j'ai travaillé avec diverses equipes et startup sur differents projets ce qui m'a permis, aujourd'hui d'avoir une expérience précieuse. Je contribue sur github et je redige des blogs dans mes temps libres entre deux projets. ",
           style: MediaQuery.of(context).size.width < 600
               ? _textStyle(fontSize!, false)
               : _textStyle(fontSize! + 2, false),

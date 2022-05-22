@@ -11,7 +11,6 @@ import 'package:mywebsite/src/widgets/arrowOnTop.dart';
 import 'package:mywebsite/src/widgets/footer.dart';
 import 'package:universal_html/html.dart' as html;
 
-import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:scrollable_positioned_list/scrollable_positioned_list.dart';
@@ -31,7 +30,7 @@ class _MainPageState extends State<MainPage> {
     "Accueil",
     "A Propos",
     "Mes Services",
-    "Mes Projects",
+    "Mes Projets",
     "Me Contacter"
   ];
 

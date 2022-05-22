@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:mywebsite/src/sections/mainSection.dart';
 import 'package:mywebsite/src/utils/constants.dart';

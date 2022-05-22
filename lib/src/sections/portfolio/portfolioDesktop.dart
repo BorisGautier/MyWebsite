@@ -57,7 +57,7 @@ class PortfolioDesktop extends StatelessWidget {
                   ),
                 );
               },
-              itemCount: 4,
+              itemCount: kProjectsLinks.length,
             ),
           ),
           SizedBox(

@@ -30,7 +30,7 @@ void launchURL(String _url) async => await canLaunch(_url)
 final kCommunityLogo = [
   'assets/logogeo.png',
   'assets/fcmr.png',
-  'assets/dsc.png'
+  'assets/dsc.png',
 ];
 
 final kCommunityLinks = [
@@ -46,18 +46,20 @@ final kTools = [
   "Angular",
   "Firebase",
   "Android",
-  "Appwrite"
+  "Appwrite",
+  "Docker",
+  "Git",
 ];
 
 final kTools1 = [
   "Dart",
+  "Javascript",
+  "Java",
+  "PHP",
+  "Kotlin",
+  "Python",
   "HTML",
   "CSS",
-  "PHP",
-  "Java",
-  "Javascript",
-  "Kotlin",
-  "Python"
 ];
 
 // services
@@ -70,7 +72,7 @@ final kServicesIcons = [
 ];
 
 final kServicesTitles = [
-  "Developpement D'applications Web et Mobile",
+  "Developpement D'applications et Logiciels",
   "UI mobile Designing",
   "Prototypage D'applications Rapide",
   "Rédaction de blogs techniques",
@@ -78,8 +80,8 @@ final kServicesTitles = [
 ];
 
 final kServicesDescriptions = [
-  "Je construis des applications professionnelles web avec Laravel et Angular et des applications mobiles avec Flutter",
-  "Bien que je sois principalement un développeur mobile Flutter, je me soucie de l'UI/UX de mes clients que ca soit en web ou mobile. Alors, n'hésitez pas à echanger avec moi sur l'UI/UX de vos applications.",
+  "Je construis des applications professionnelles web avec Laravel et Angular et des applications mobiles natives et cross-platform avec Flutter",
+  "Bien que je sois principalement un développeur Backend, je me soucie de l'UI/UX de mes clients que ca soit en web ou mobile. Alors, n'hésitez pas à echanger avec moi sur l'UI/UX de vos applications.",
   "Vous avez une idée de startup ? Ou peut-être voulez-vous simplement un prototype pour vos clients ? Avec Flutter, je peux vous fournir une version de base de votre application en un rien de temps et vous êtes prêt pour vos projets futurs.",
   "J'ecrirais des articles techniques sur dev.to afin de partager mes idées mes astuces et meme pour presenter certains de mes projets @borisgauty",
   "Je travaille en tant que contributeur open source sur GitHub sur de nombreux projets et de nombreux forks sur divers projets aimés et partagés par d'autres développeurs. Consultez mon profil GitHub @BorisGautier",
@@ -99,6 +101,10 @@ final kProjectsBanner = [
   "assets/projects/movie.jpg",
   "assets/projects/11.jpg",
   "assets/projects/11.png",
+  "assets/projects/project.png",
+  "assets/projects/project.png",
+  "assets/projects/project.png",
+  "assets/projects/project.png",
 ];
 
 final kProjectsIcons = [
@@ -106,6 +112,9 @@ final kProjectsIcons = [
   "assets/projects/android.png",
   "assets/projects/flutter.png",
   "assets/projects/android.png",
+  "assets/projects/flutter.png",
+  "assets/projects/flutter.png",
+  "assets/services/open.png",
   "assets/projects/flutter.png",
 ];
 
@@ -115,6 +124,9 @@ final kProjectsTitles = [
   "MyEvent",
   "Find Jobs",
   "aestheticDialogs",
+  "GPChat",
+  "Position",
+  "GNews"
 ];
 
 final kProjectsDescriptions = [
@@ -123,6 +135,9 @@ final kProjectsDescriptions = [
   "Securisez vos evenements et suivez votre processus de vente grace à MyEvent",
   "Application mobile pour publier et trouver des offres d'emplois dans notre ville ou pays",
   "Plugins flutter pour afficher de belles boites de dialogue dans vos applictions",
+  "GPChat est une application de messagerie gratuite disponible sur Android et bientôt sur d'autres plateformes.",
+  "Position est une solution digitale, collaborative conçue pour simplifier le quotidien et faciliter les échanges entre les artisans, commerçants et la population",
+  "GNews est une application opensource de news gratuite disponible sur Android et bientôt sur d'autres plateformes."
 ];
 
 final kProjectsLinks = [
@@ -131,6 +146,9 @@ final kProjectsLinks = [
   "https://play.google.com/store/apps/details?id=com.trimora.myevent",
   "https://play.google.com/store/apps/details?id=cm.tbg.jobs",
   "https://github.com/BorisGautier/aestheticDialogs",
+  "https://play.google.com/store/apps/details?id=cm.tbg.gpchat&hl=fr&gl=US",
+  "https://position.cm/",
+  "https://github.com/BorisGautier/GNews"
 ];
 
 // Contact
