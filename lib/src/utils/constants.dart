@@ -98,6 +98,7 @@ final kServicesLinks = [
 // projects
 final kProjectsBanner = [
   "assets/projects/2.png",
+  "assets/projects/tictactoe.jpeg",
   "assets/projects/movie.jpg",
   "assets/projects/11.jpg",
   "assets/projects/11.png",
@@ -109,6 +110,7 @@ final kProjectsBanner = [
 
 final kProjectsIcons = [
   "assets/services/open.png",
+  "assets/projects/flutter.png",
   "assets/projects/android.png",
   "assets/projects/flutter.png",
   "assets/projects/android.png",
@@ -120,6 +122,7 @@ final kProjectsIcons = [
 
 final kProjectsTitles = [
   "GeOsm",
+  "TicTacToe",
   "MovieStream",
   "MyEvent",
   "Find Jobs",
@@ -131,6 +134,7 @@ final kProjectsTitles = [
 
 final kProjectsDescriptions = [
   "GeOsm est la première plateforme geographique mondiale de données libres",
+  "Jeu de morpion en ligne avec Flutter",
   "Avec MovieStream profitez du meilleur du streaming, telechargez vos films series et animes et profitez des emissions en direct",
   "Securisez vos evenements et suivez votre processus de vente grace à MyEvent",
   "Application mobile pour publier et trouver des offres d'emplois dans notre ville ou pays",
@@ -142,6 +146,7 @@ final kProjectsDescriptions = [
 
 final kProjectsLinks = [
   "https://github.com/GeOsmFamily",
+  "https://play.google.com/store/apps/details?id=cm.tbg.tictactoe",
   "https://appdistribution.firebase.dev/i/bd22871bb06fa1cf",
   "https://play.google.com/store/apps/details?id=com.trimora.myevent",
   "https://play.google.com/store/apps/details?id=cm.tbg.jobs",
@@ -165,7 +170,7 @@ final kContactTitles = [
 ];
 
 final kContactDetails = [
-  "Yaounde, Cameroun",
+  "Douala, Cameroun",
   "(+237) 691 20 19 46",
-  "btchoukouaha@tbg.cm"
+  "me@borisgauty.com"
 ];
